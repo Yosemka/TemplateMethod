@@ -1,0 +1,2 @@
+# TemplateMethod
+ Training template method
